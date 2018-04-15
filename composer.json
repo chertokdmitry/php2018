@@ -1,0 +1,7 @@
+{
+    "name": "dimas/example",
+    "description": "A very first program",
+    "require": {
+        "tightenco/collect": "^5.5"
+    }
+}
