@@ -12,3 +12,8 @@ function run()
 
     return $collection;
 }
+
+function run()
+{
+	
+}
